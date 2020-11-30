@@ -1,2 +1,1 @@
-# intro-to-CV
-University homeworks for the course "Introduction to Computer vision"
+This repository contains solutions of the homeworks from Skoltech course "Introduction to Computer Vision"
