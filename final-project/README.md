@@ -16,6 +16,9 @@ This folder contains files of the final project for the Skoltech course "Introdu
 
 ## Video links
 One of the project's result are shown in the video format.
+
 Here are the links to:
+
 Game recording: https://youtu.be/7tNIcEiqZhM
+
 Tracking recording: https://youtu.be/YQVNW2ro4jE
