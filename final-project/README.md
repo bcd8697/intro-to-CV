@@ -1,12 +1,15 @@
-This folder contains Jupyter notebook file with the implemetation of final project for the Skoltech course "Introduction to Computer Vision".
+<h1 align="center"> Football player spotting </h1>
 
-For this project:
+This folder contains files of the final project for the Skoltech course "Introduction to Computer Vision".
+
+## Dependencies
 - Python
 - NumPy
 - OpenCV
 - skimage
-libraries were used.
 
-* images - folder with Pro Evolution Soccer 2016 screenshots which were used for checking of algorithm's work.
-* presentation - folder with PDF presentation of results achieved
-* ipynb file - implementation of the project in Jupyter notebook
+## Content
+
+* **images** - folder with Pro Evolution Soccer 2016 screenshots which were used for checking of algorithm's work.
+* **presentation** - folder with PDF presentation of results achieved
+* **ipynb file** - implementation of the project in Jupyter notebook
