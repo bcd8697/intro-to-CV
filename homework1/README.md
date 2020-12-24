@@ -2,14 +2,14 @@
 The goal of the homework is to count scores for the Ticket to Ride Europe boardgame. 
 
 <p align="left">
-  <img width="725" height="435" src="https://github.com/bcd8697/intro-to-CV/blob/main/homework1/src_img/ann_1.png">
+  <img width="182" height="109" src="https://github.com/bcd8697/intro-to-CV/blob/main/homework1/src_img/ann_1.png">
 </p>
 
 During the game, players connect different cities to complete some destination tickets. Every player has a set of train markers for claiming a route. 
 At the end of the game, players got scores for claimed every route (=path between two neighboring cities) depending on its length:
 
 <p align="left">
-  <img width="574" height="314" src="https://github.com/bcd8697/intro-to-CV/blob/main/homework1/src_img/ann_2.png">
+  <img width="144" height="79" src="https://github.com/bcd8697/intro-to-CV/blob/main/homework1/src_img/ann_2.png">
 </p>
 
 (left - the number of markers, right - the score). A full version of the rules can be found here (Links to an external site.).
