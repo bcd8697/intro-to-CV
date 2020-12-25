@@ -27,6 +27,10 @@ Tracking recording: https://youtu.be/YQVNW2ro4jE
 
 It was calculated that for images in **images** folder the average accuracy is about 84%.
 
+The formula used for accuracy calculation was: 
+
+<img src="https://latex.codecogs.com/png.latex?Accuracy=\frac{TP}{TP+FP+FN}" /></a> 
+
 | N | Real amount (blue) | Real amount (red) | TP(red) | FP(red) | FN(red) | TP(blue) | FP(blue) | FN(blue) | Accuracy |
 |:-:|:------------------:|:-----------------:|:-------:|:-------:|:-------:|:--------:|:--------:|:--------:|:--------:|
 | 1 |         10         |         9         |    7    |    1    |    2    |    10    |     0    |     0    |   0,85   |
